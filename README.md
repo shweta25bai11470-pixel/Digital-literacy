@@ -1,8 +1,8 @@
 # Digital Literacy Project
 
-- Name: [Shweta Kumari]
-- Registration Number: [25BAI11470]
-- Branch: [CSE AIML]
+- Name: Shweta Kumari
+- Registration Number: 25BAI11470
+- Branch: CSE AIML
 - Course Code: CSE0001
 - Course Title: Digital Literacy
 
