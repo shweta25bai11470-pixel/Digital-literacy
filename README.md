@@ -20,5 +20,8 @@ This project is part of the Digital Literacy course at VIT Bhopal. As a Student 
 ### Task 1: Digital Literacy Infographic
 ### Task 2: Digital Portfolio
 ### Task 3: Platforms
+
+Google Forms Link:https://docs.google.com/forms/d/1XAbhWaEYlzP_RwPEPmULl-8Mr-8ao9SJDK-2qaPuDTE/edit
+
 ### Task 4: Email Etiquette
 ### Task 5: Cybercrime Awareness
